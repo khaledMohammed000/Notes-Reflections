@@ -13,3 +13,7 @@ Ans- forks are used when u wanna make changes to a existing repository on Github
 	 branches are part of a repository...u could consider them as a chunk of commits branching from the main branch of commits...
 
 4)What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans- u would optimize in sending only those commits to ur remote that are needed...also could be used to compare both remote and local...like how ahead the are and such....
+
+5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans- I dont know....Google Drive appears to be a good option but i dont know if it as powerful as git or not...plus Git Hub has all the facilitites u could use to do collaboration....then y something else ???
