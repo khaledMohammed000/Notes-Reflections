@@ -17,3 +17,6 @@ Ans- u would optimize in sending only those commits to ur remote that are needed
 
 5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Ans- I dont know....Google Drive appears to be a good option but i dont know if it as powerful as git or not...plus Git Hub has all the facilitites u could use to do collaboration....then y something else ???
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans- u can consider master as production branch....where as any other could be a experimental branch....so it stays apart from master as lon as u dont merge the master and the eperimental branch.....the second question has been answered
