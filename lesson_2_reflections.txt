@@ -7,3 +7,7 @@ Ans- Branch diagram helps me find out if that commit could be reached....how doe
 3)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Ans- its an amazing concept wherein u add new working features to an existing stable version(master branch)....coz it is stored in that way so we use diagram to determine what happened....who the parent is...all that stuff
 
+4)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Ans- a big No to automatic merging
+	 a big Yes to manual merging
+
