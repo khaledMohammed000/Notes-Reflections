@@ -3,3 +3,6 @@ Ans- a) for making mutiple copies of the project
      b) for collabrating with others
      c) for sharing the project
      d) show off your work 
+
+2)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Ans- u will make unwanted updates to ur master branch in the local if Git automatically updated all the commits by pulling them....one more point to consider is there may be changes in Github repository which are still transitional and need lot more commits for the project to get stable...u wanna avoid all the buggy commits ...wouldnt u ???
