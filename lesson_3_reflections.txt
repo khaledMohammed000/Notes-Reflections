@@ -11,3 +11,5 @@ Ans- u will make unwanted updates to ur master branch in the local if Git automa
 Ans- forks are used when u wanna make changes to a existing repository on Github but u dont have the permissions to do so
 	 clones are used to make a copy of a repository from Github onto ur machine Locally
 	 branches are part of a repository...u could consider them as a chunk of commits branching from the main branch of commits...
+
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
