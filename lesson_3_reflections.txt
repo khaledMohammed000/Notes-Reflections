@@ -6,3 +6,8 @@ Ans- a) for making mutiple copies of the project
 
 2)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans- u will make unwanted updates to ur master branch in the local if Git automatically updated all the commits by pulling them....one more point to consider is there may be changes in Github repository which are still transitional and need lot more commits for the project to get stable...u wanna avoid all the buggy commits ...wouldnt u ???
+
+3)Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans- forks are used when u wanna make changes to a existing repository on Github but u dont have the permissions to do so
+	 clones are used to make a copy of a repository from Github onto ur machine Locally
+	 branches are part of a repository...u could consider them as a chunk of commits branching from the main branch of commits...
