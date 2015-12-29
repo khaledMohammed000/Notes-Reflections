@@ -3,3 +3,7 @@ Ans- branches would be useful in all those situations where we dont want the cod
 
 2)How do the diagrams help you visualize the branch structure?
 Ans- Branch diagram helps me find out if that commit could be reached....how does it  affects other branches/commits.....so a diagram pretty much tells u what ur capable and what ur not capapble of...
+
+3)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans- its an amazing concept wherein u add new working features to an existing stable version(master branch)....coz it is stored in that way so we use diagram to determine what happened....who the parent is...all that stuff
+
