@@ -11,7 +11,7 @@
 #Reflect: Manual Commits
 **_By committing manually instead of automatically, you can decide what to commit and when._**
 
-**_This gives the opportunity to split the commits based on functionality. _**
+**_This gives the opportunity to split the commits based on functionality._**
 
 **_By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit._**
 
