@@ -25,3 +25,19 @@
 
 #Reflect: what do you want to try using Git for?
 **_Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases_**
+
+#Commands:
+
+>q |    exit git log!
+
+>git log  |    List the commits and show which files have changed
+
+>git log --stat  |    Show addition information about the commits
+
+>git diff id1 id2  |    Compare two commits
+
+>git clone  |    Create a local copy/clone from the repository
+
+>git config --global color.ui auto |    get colored diff output
+
+>git checkout  |    Shows a previous version of the file. This is not a checkout to edit like in SVN or TFS!
