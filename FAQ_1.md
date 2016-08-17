@@ -6,7 +6,7 @@
 **Use git-bash to get linux style command prompt**
 
 **_on windows you have program called FC. Can be runned from commandline:_**
-###>>	FC file-old.js file-new.js
+>	FC file-old.js file-new.js
 
 #Reflect: Manual Commits
 **_By committing manually instead of automatically, you can decide what to commit and when._**
