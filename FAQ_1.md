@@ -15,3 +15,9 @@
 
 **_By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit._**
 
+#Reflect: Multi-File commits
+**_Multi-file commits are usefull when files are related to eachother._**
+
+**_"Normal" documents seldom have relations, so those are not needed. In sourcecode, files will have lots of relations._**
+
+**_So having multi-file commits is an essential feature._**
