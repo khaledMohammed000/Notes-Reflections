@@ -21,3 +21,7 @@
 **_"Normal" documents seldom have relations, so those are not needed. In sourcecode, files will have lots of relations._**
 
 **_So having multi-file commits is an essential feature._**
+
+
+#Reflect: what do you want to try using Git for?
+**_Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases**_
