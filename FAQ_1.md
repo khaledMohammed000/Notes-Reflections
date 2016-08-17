@@ -24,4 +24,4 @@
 
 
 #Reflect: what do you want to try using Git for?
-**_Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases**_
+**_Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases_**
