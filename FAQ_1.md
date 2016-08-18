@@ -3,28 +3,28 @@
 >broken.
 
 #Other notes:
-**Use git-bash to get linux style command prompt**
+>Use git-bash to get linux style command prompt
 
 **_on windows you have program called FC. Can be runned from commandline:_**
 >	FC file-old.js file-new.js
 
 #Reflect: Manual Commits
-**_By committing manually instead of automatically, you can decide what to commit and when._**
+>By committing manually instead of automatically, you can decide what to commit and when.
 
-**_This gives the opportunity to split the commits based on functionality._**
+>This gives the opportunity to split the commits based on functionality.
 
-**_By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit._**
+>By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit.
 
 #Reflect: Multi-File commits
-**_Multi-file commits are usefull when files are related to eachother._**
+>Multi-file commits are usefull when files are related to eachother.
 
-**_"Normal" documents seldom have relations, so those are not needed. In sourcecode, files will have lots of relations._**
+>"Normal" documents seldom have relations, so those are not needed. In sourcecode, files will have lots of relations.
 
-**_So having multi-file commits is an essential feature._**
+>So having multi-file commits is an essential feature.
 
 
 #Reflect: what do you want to try using Git for?
-**_Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases_**
+>Source code for a simple website/game/video files editing/Opensource/Photoshop/many more use cases
 
 #Commands:
 
