@@ -11,3 +11,6 @@
  >   A fork is a copy of a repository on GitHub. Use this when you want to make changes to a repository when you don't have access to the original repository.
     A clone is copy of a repository. This can be on the same machine, but it can also be a clone from a GitHub repository to your own machine. Use this for collaborating.
     Branches are leafs on the master branch. Those can be seen as a side track in which you can change code without changing the master branch. Use this for creating new features/bug fixes.
+
+#What is the benefit of having a copy of the last known state of the remote stored locally?
+ >   You can work offline, it saves a lot of data overhead when pushing changes to github and it gives the possibility to do a quick check which changes are made in the online repo compared to the offline repository.
