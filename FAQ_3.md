@@ -24,3 +24,18 @@
     For small changes it is a lot quicker to make them directly in the master branch, but this comes with a risk.
 
 
+#Commands:
+
+>git remote  |    Show all remote locations for the repository
+
+>git remote add origin url |     Add a new remote location for the repository. Origin is the default name to use when you create only one remote location. Url should be the https url to the github repository.
+
+>git remove -v  |    Outputs the remote locations with verbose information (fetch and push urls)
+
+>git push origin master  |    Push the master branch to the remote location origin.
+
+>git pull origin master  |    Get the master branch from the remote location origin.
+
+>git pull origin master  |    = Git fetch origin + git merge master origin/master
+
+>git fetch origin  |    Get the changes from the remote location into the (hidden?) origin/master branch
